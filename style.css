@@ -107,9 +107,10 @@ nav button svg {
 }
 
 #page1 h1 {
+    font-family: 'Gilroy-Bold', sans-serif;
     font-size: 8.5vw;
     text-transform: uppercase;
-    font-weight: 900;
+    font-weight: 2000;
     line-height: 8.5vw;
 }
 
@@ -372,7 +373,7 @@ nav button svg {
 
 .sec-left h2 {
     font-size: 2.1vw;
-    font-weight: 500;
+    font-weight: 600;
     color: #000;
 }
 
@@ -715,6 +716,27 @@ summary::marker {
     transform: translateX(40%);
 }
 #btm6-part2 h4:nth-child(7){
+    transform: translateX(50%);
+}
+
+
+
+#btm6-part3 h4:nth-child(2){
+    transform: translateX(0);
+}
+#btm6-part3 h4:nth-child(3){
+    transform: translateX(30%);
+}
+
+
+
+#btm6-part4 h4:nth-child(2){
+    transform: translateX(0);
+}
+#btm6-part4 h4:nth-child(3){
+    transform: translateX(30%);
+}
+#btm6-part4 h4:nth-child(4){
     transform: translateX(50%);
 }
 
